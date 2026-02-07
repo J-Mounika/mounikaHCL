@@ -1,0 +1,134 @@
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.header {
+    background: white;
+    padding: 15px 40px;
+    border-bottom: 1px;
+}
+
+
+.logo {
+    font-size: 26px;
+    font-weight: bold;
+    color: #2c5cc5;
+    display: inline-block;
+}
+
+.menu {
+    float: right;
+}
+
+.menu a {
+    text-decoration: none;
+    color: #333;
+    margin-left: 20px;
+    font-size: 14px;
+}
+
+.menu .contact {
+    border: 1px solid #333;
+    padding: 8px 14px;
+    border-radius: 6px;
+}
+
+
+.hero {
+    height: 400px;
+    background: linear-gradient(90deg, #5a2dcf, #4e8df5, #5bc8a8);
+    color: white;
+    padding: 60px 80px;
+}
+
+.hero-left {
+    width: 55%;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.hero-left h1 {
+    font-size: 44px;
+    margin-bottom: 20px;
+}
+
+.hero-left p {
+    font-size: 16px;
+    margin-bottom: 30px;
+}
+
+.hero-left button {
+    background: white;
+    color: #333;
+    border: none;
+    padding: 12px 22px;
+    font-size: 14px;
+    cursor: pointer;
+    border-radius: 6px;
+}
+
+.hero-right {
+    width: 40%;
+    display: inline-block;
+    text-align: center;
+}
+
+.ai-logo {
+    border: 2px solid white;
+    width: 220px;
+    margin: auto;
+    padding: 20px;
+    border-radius: 50%;
+}
+
+.ai-logo h2 {
+    font-size: 40px;
+    margin: 0;
+}
+
+.ai-logo span {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.ai-logo p {
+    font-size: 12px;
+    margin-top: 10px;
+}
+.roi {
+    background: slateblue;
+    color: white;
+    padding: 15px;
+    margin-left:40px;
+    margin-right:40px;
+    margin-top: 50px;
+}
+
+.roi-box {
+    display: inline-block;
+    width: 200px;
+    margin: 30px;
+    background: blueviolet;
+    padding: 20px;
+}
+.highlights {
+    padding: 40px;
+}
+.card {
+    display: inline-block;
+    background: whitesmoke;
+    padding: 20px;
+    width: 200px;
+    margin: 10px;
+}
+
+.big {
+    width: 350px;
+}
+
+.side {
+    width: 200px;
+}
+
